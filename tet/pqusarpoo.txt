@@ -1,0 +1,23 @@
+Os software desenvolvido com POO apresentam as seguintes características:
+
+Confiável
+A geração de código baseado no conceito de objetos e classes fornece uma grande independência ao programa. Assim, qualquer intervenção que seja necessária não afetará outros pontos do sistema. Isso confere robustez e confiabilidade.
+
+Oportuno
+A criação paralela de código torna todo o processo bastante ágil. Ganha-se em tempo e eficiência, tornando um software com paradigma POO oportuno. Várias equipes podem trabalhar no mesmo projeto de forma independente.
+
+Ajustável
+Essa característica diz respeito ao processo de manutenção do código-fonte. Ao atualizar uma parte pequena, o conceito de herança garante que, automaticamente, todas as partes que utilizarem tal método sejam beneficiadas.
+
+Essa característica torna especial o paradigma de POO, pois é muito comum que equipes de desenvolvimento de softwares sejam escaladas para trabalhar com softwares já existentes. Dessa forma, torna-se mais fácil executar o trabalho de manutenção.
+
+Extensível
+O uso do princípio da reutilização do software adiciona funcionalidades ao sistema já existente. Não é preciso “reinventar a roda”, reescrevendo o código. Isso confere maior capacidade de estender um sistema já existente.
+
+Reutilizável
+Um mesmo objeto pode ser utilizado em aplicações diferentes, desde que sejam compatíveis. Se tivéssemos um objeto “aluno”, por exemplo, ele poderia ser utilizado em sistemas de empresas diferentes, desde que elas contassem com alunas e alunos na sua estrutura.
+
+Assim, tanto uma escola de música como uma academia poderiam fazer uso do objeto “aluno” em um possível software para uso próprio, pois ambas as empresas têm essas pessoas como seu público.
+
+Natural
+O conceito de POO que traz para a programação o mundo concreto, tal qual vemos no dia-a-dia, faz com que se ganhe naturalidade. O ponto de vista humano se torna mais próximo do virtual. Assim, pensa-se no problema geral, em vez de concentrar o foco em pormenores. 
