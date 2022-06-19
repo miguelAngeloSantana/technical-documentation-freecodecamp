@@ -1,1 +1,0 @@
-A programação orientada a objetos utiliza objetos, porém nem todas das técnicas e estruturas associadas são suportadas diretamente em linguagens que afirmam suportar a POO

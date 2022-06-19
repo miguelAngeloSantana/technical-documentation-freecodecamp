@@ -1,1 +1,0 @@
-Já o polimorfismo é uma característica inerente aos métodos dos objetos. Significa dizer que um mesmo método pode ser utilizado em diferentes objetos, de diferentes classes.

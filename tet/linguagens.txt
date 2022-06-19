@@ -1,1 +1,0 @@
-Muitas das linguagens mais utilizadas são multiparadigmas. Linguagens orientadas a objeto significativas incluem Java, C++, C#, Python, Lua, PHP, Ruby, etc.
